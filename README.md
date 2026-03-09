@@ -18,8 +18,6 @@ A passionate Computer Science Engineering Student || Aspiring Software Engineer 
 📫 How to reach me: sk5251476@gmail.com
  | LinkedIn:linkedin.com/in/shashi0013
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I Love Coding, and Coding Loves Me 💻🔥
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashi0013) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sk5251476@gmail.com) 
